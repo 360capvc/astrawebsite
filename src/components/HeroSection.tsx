@@ -27,7 +27,7 @@ const HeroSection = () => {
             transition={{ duration: 0.8, delay: 0.12 }}
           >
             Scaling Europe's{" "}
-            <span className="text-gold-gradient">Tech Champions</span>
+            <span className="text-gold-gradient">Next Tech Leaders</span>
           </motion.h1>
 
           <motion.p
